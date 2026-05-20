@@ -1,4 +1,4 @@
-# TheYouIWatched
+# T.H.E.M (Those Humans Eternally Monitoring)
 A FYP game.
 
 <B><H3>Game Overview </H3></B>
@@ -73,8 +73,9 @@ Lai Tsz Fung <BR>
 
 Game Tester<BR>
 Louis <BR>
+Justin Tsang<BR>
+Sam Kwan<BR>
 Sammy Lai<BR>
-Sam Kwan <BR>
 
 Assets<BR>
 Backrooms Music juanjo_sound<BR>
