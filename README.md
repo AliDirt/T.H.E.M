@@ -1,6 +1,6 @@
 # T.H.E.M (Those Humans Eternally Monitoring)
 A FYP game.
-
+![Alt Text](./T.H.E.MPoster.png)<BR>
 <B><H3>Game Overview </H3></B>
 Genre: Interactive movie game / FMV<BR>
 Target Platform: PC<BR>
